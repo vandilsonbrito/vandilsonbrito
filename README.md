@@ -24,11 +24,11 @@
 
 <br>
 
-🌱 Atualmente estou me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.
+<i>🌱 Atualmente estou me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.</i>
 
 <br>
 
-🔭 Você pode ver meu portfólio com todos meus projetos: [Portfólio](https://vandilson-portfolio.netlify.app/)
+<i>🔭 Você pode ver meu portfólio com todos meus projetos:</i> [Portfólio](https://vandilson-portfolio.netlify.app/)
 
 <br>
 
