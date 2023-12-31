@@ -17,6 +17,12 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width= "60" height= "60"/>
 </div>
 
+<div>
+<a href="https://github.com/vandilsonbrito">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 <br>
 
 🌱 Atualmente estou me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.
