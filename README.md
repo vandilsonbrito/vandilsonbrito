@@ -1,9 +1,10 @@
 # Hi there, me chamo Vandilson 👋
 ## Welcome ao meu perfil do GitHub
 
+<br>
+
 Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-end e Possuo Intermediate English e Nível Iniciante em Espanhol.
 
-<br>
 <br>
 
 ### Possuo Conhecimento nas Seguintes Tecnologias e Ferramentas:
@@ -16,10 +17,15 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width= "60" height= "60"/>
 </div>
 
-        
+<br>
+
 🌱 Atualmente estou me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.
 
+<br>
+
 🔭 Você pode ver meu portfólio com todos meus projetos: [Portfólio](https://vandilson-portfolio.netlify.app/)
+
+<br>
 
 ### Contatos
 
