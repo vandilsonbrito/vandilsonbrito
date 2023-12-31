@@ -10,6 +10,10 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
 
 🔭 Você pode ver meu portfólio com todos meus projetos: [portfólio](https://vandilson-portfolio.netlify.app/)
 
+### Contatos
+
+(https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram)
+
  <!--
 **vandilsonbrito/vandilsonbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
