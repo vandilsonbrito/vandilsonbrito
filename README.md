@@ -8,13 +8,13 @@
 
 <div>
 <a href="https://github.com/vandilsonbrito">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br>
 
-<div class="width= '100%' display='flex' justify-content='justify-between'">
+<div class="width= '100%' display='flex' gap='10px'">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "50" height= "50"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "50" height= "50"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width= "50" height= "50"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "50" height= "50"/>   
