@@ -2,6 +2,8 @@
 ## Welcome ao meu perfil do GitHub
 
 Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-end e Possuo Intermediate English e Nível Iniciante em Espanhol.
+
+
 ### Possuo Conhecimento nas Seguintes Tecnologias e Ferramentas:
 
 <div class="width= '100%' display='flex' justify-content='justify-between'">
