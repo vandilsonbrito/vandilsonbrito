@@ -7,6 +7,14 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
 
 <br>
 
+<div>
+<a href="https://github.com/vandilsonbrito">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+<br>
+
 ### Possuo Conhecimento nas Seguintes Tecnologias e Ferramentas:
 
 <div class="width= '100%' display='flex' justify-content='justify-between'">
@@ -15,12 +23,6 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "60" height= "60"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "60" height= "60"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width= "60" height= "60"/>
-</div>
-
-<div>
-<a href="https://github.com/vandilsonbrito">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
 <br>
