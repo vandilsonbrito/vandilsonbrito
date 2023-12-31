@@ -3,7 +3,7 @@
 <br>
 
 <i>Sou bacharel Interdisciplinar em Ciência e Tecnologia, Desenvolvedor Front-end e Possuo Intermediate English e Nível Iniciante em Espanhol.</i>
-
+<i>Contate-me no e-mail: vandilson25@outlook.com<i>
 <br>
 
 <div>
@@ -36,7 +36,6 @@
 
 <div>
 <a href="https://instagram.com/frontendvan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:vandilson25@outlook.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vandilson-brito-b791b3216" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  <!--
