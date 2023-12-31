@@ -3,6 +3,8 @@
 
 Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-end e Possuo Intermediate English e Nível Iniciante em Espanhol.
 
+<br>
+<br>
 
 ### Possuo Conhecimento nas Seguintes Tecnologias e Ferramentas:
 
