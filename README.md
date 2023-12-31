@@ -12,7 +12,7 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
 
 ### Contatos
 
-(https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram)
+[<img loading="lazy" src="https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram" width= "60" height= "60"></img>](https://www.instagram.com/frontendvan/)
 
  <!--
 **vandilsonbrito/vandilsonbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
