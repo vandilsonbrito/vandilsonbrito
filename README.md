@@ -14,8 +14,6 @@
 
 <br>
 
-### Possuo Conhecimento nas Seguintes Tecnologias e Ferramentas:
-
 <div class="width= '100%' display='flex' justify-content='justify-between'">
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "60" height= "60"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "60" height= "60"/>   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width= "60" height= "60"/>   
