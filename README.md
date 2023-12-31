@@ -8,11 +8,11 @@ Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-e
         
 🌱 Atualmente estou me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.
 
-🔭 Você pode ver meu portfólio com todos meus projetos: [portfólio](https://vandilson-portfolio.netlify.app/)
+🔭 Você pode ver meu portfólio com todos meus projetos: [Portfólio](https://vandilson-portfolio.netlify.app/)
 
 ### Contatos
 
-[<img loading="lazy" src="https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram" width= "60" height= "60"></img>](https://www.instagram.com/frontendvan/)
+[<img src="https://icons8.com.br/icon/Xy10Jcu1L2Su/instagram" width= "60" height= "60"></img>](https://www.instagram.com/frontendvan/)
 
  <!--
 **vandilsonbrito/vandilsonbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
