@@ -2,7 +2,7 @@
 
 <br>
 
-<i>Sou bacharel Interdisciplinar em Ciência e Tecnologia, souDesenvolvedor Front-end e Possuo Intermediate English e Nível Iniciante em Espanhol.</i>
+<i>Sou bacharel Interdisciplinar em Ciência e Tecnologia, Desenvolvedor Front-end e Possuo Intermediate English e Nível Iniciante em Espanhol.</i>
 
 <br>
 
