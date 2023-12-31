@@ -1,5 +1,4 @@
-## Hi there, me chamo Vandilson 👋
-### Welcome ao meu perfil do GitHub
+## Hi there, eu sou o Vandilson Brito 👋
 
 <br>
 
