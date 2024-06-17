@@ -29,7 +29,7 @@
 
 <i>🌱 Atualmente estou estudando TypeScript, Next e me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.</i>
 
-<i>🔭 Você pode ver meu portfólio com todos meus projetos:</i> [Portfólio](https://vandilson-portfolio.netlify.app/)
+<i>🔭 Você pode ver meu portfólio com todos meus projetos:</i> [Portfólio](https://vandilson-portfolio.vercel.app/)
 
 <br>
 
