@@ -2,7 +2,7 @@
 
 <br>
 
-<i>Sou bacharel Interdisciplinar em Ciência e Tecnologia, Desenvolvedor Front-end, Possuo Intermediate English e Nível Iniciante em Espanhol.</i>
+<i>Sou Front-end Web Developer.</i>
 <br>
 <i>Contate-me no e-mail: vandilson25@outlook.com<i>
 <br>
