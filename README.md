@@ -1,10 +1,8 @@
 ## Hi there, eu sou o Vandilson Brito 👋
-
 <br>
-
-<i>Sou Front-end Web Developer.</i>
+### Sou Front-end Web Developer.
 <br>
-<i>Contate-me no e-mail: vandilson25@outlook.com<i>
+Contate-me no e-mail: vandilson25@outlook.com
 <br>
 
 <div>
@@ -15,28 +13,32 @@
 
 <br>
 
+### Ferramentas e Tecnologias
 <div>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "50" height= "50"/>   
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "50" height= "50" margin-left="10px"/>   
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/>   
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "50" height= "50" margin-left="10px"/>   
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/>
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "50" height= "50"/>   
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "50" height= "50" margin-left="10px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "50" height= "50" margin-left="10px"/>   
+        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/> 
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" />
+          
 </div>
 
 <br>
 <br>
 
-<i>📗 Atualmente estou estudando TypeScript, Next e me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.</i>
+<strong>📗 Atualmente estou estudando TypeScript, Next e me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.</strong>
 
-<i>💻 Você pode ver meu portfólio com todos meus projetos e CV:</i> [Portfólio](https://vandilson-portfolio.vercel.app/)
+<strong>💻 Você pode ver meu portfólio com todos meus projetos e CV:</i> [Portfólio](https://vandilson-portfolio.vercel.app/)</strong>
 
 <br>
 
 ### Contatos
 
 <div>
-<a href="https://instagram.com/frontendvan" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/vanprogramadorweb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/vandilson-brito-b791b3216" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
  <!--
