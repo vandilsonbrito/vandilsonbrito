@@ -22,7 +22,8 @@
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "50" height= "50" margin-left="10px"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width= "50" height= "50" margin-left="10px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg "width= "50" height= "50" margin-left="10px" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" width= "50" height= "50" margin-left="10px"/>
+          
           
 </div>
 
