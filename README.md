@@ -30,7 +30,7 @@
 <br>
 <br>
 
-<strong>📗 Atualmente estou estudando TypeScript, Next e me aprofundando mais no React e bibliotecas que facilitam a criação de aplicações web.</strong>
+<strong>📗 Atualmente estou estudando TypeScript, Next.js e me aprofundando mais no React.js e bibliotecas que facilitam a criação de aplicações web.</strong>
 
 <strong>💻 Você pode ver meu portfólio com todos meus projetos e CV:</i> [Portfólio](https://vandilson-portfolio.vercel.app/)</strong>
 
