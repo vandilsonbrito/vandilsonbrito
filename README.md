@@ -1,10 +1,10 @@
 ## Hi there, eu sou o Vandilson Brito 👋
-<br>
-### Sou Front-end Web Developer.
-<br>
-Contate-me no e-mail: vandilson25@outlook.com
-<br>
 
+<strong>Sou Front-end Web Developer.</strong>
+<br>
+<strong>Contate-me no e-mail: vandilson25@outlook.com</strong>
+<br>
+<br>
 <div>
 <a href="https://github.com/vandilsonbrito">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,7 +22,7 @@ Contate-me no e-mail: vandilson25@outlook.com
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "50" height= "50" margin-left="10px"/>   
         <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/> 
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width= "50" height= "50" margin-left="10px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg "width= "50" height= "50" margin-left="10px" />
           
 </div>
 
