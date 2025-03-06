@@ -1,6 +1,6 @@
 ## Hi there, eu sou o Vandilson Brito 👋
 
-<strong>Sou Front-end Web Developer.</strong>
+<strong>Sou Web Developer.</strong>
 <br>
 <strong>Contate-me no e-mail: vandilson25@outlook.com</strong>
 <br>
@@ -30,7 +30,7 @@
 <br>
 <br>
 
-<strong>📗 Atualmente estou estudando TypeScript, Next.js e me aprofundando mais no React.js e bibliotecas que facilitam a criação de aplicações web.</strong>
+<strong>📗 Atualmente estou estudando back-end com Node.js e construindo APIs com frameworks como express e fastify.</strong>
 
 <strong>💻 Você pode ver meu portfólio com todos meus projetos e CV:</i> [Portfólio](https://vandilson-portfolio.vercel.app/)</strong>
 
