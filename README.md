@@ -49,7 +49,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="40" alt="cypress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypressio-original.svg" height="40" alt="cypress logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" height="40" alt="vitest logo"  />
 </div>
