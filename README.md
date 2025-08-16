@@ -61,11 +61,11 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=dark&hide_border=true&bg_color=0,00FF00,006400&title_color=ffffff&icon_color=00FF00" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1f1c,004d00&title_color=00ff00&icon_color=00ff00" alt="GitHub stats" />
   <img width="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&theme=dark&hide_border=true&bg_color=0,00FF00,006400&title_color=ffffff" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1f1c,004d00&title_color=00ff00" alt="Top languages" />
 </div>
 
 ###
 
-<strong>💻 You can see my portfolio with projects and CV:</strong> [Portfolio](https://vandilson-portfolio.vercel.app/)
+<strong>💻 You can see my portfolio with all my projects and CV:</strong> [Portfolio](https://vandilson-portfolio.vercel.app/)
