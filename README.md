@@ -1,58 +1,71 @@
-## Hi there, eu sou o Vandilson Brito 👋
+<h1 align="center">Vandilson Brito | Fullstack Developer</h1>
 
-<strong>Sou Web Developer.</strong>
-<br>
-<strong>Contate-me no e-mail: vandilson25@outlook.com</strong>
-<br>
-<br>
-<div>
-<a href="https://github.com/vandilsonbrito">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&langs_count=7&theme=dracula"/>
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/vandilson-brito-desenvolvedor-fullstack/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://instagram.com/vanprogramadorweb" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
 </div>
 
-<br>
+###
 
-### Ferramentas e Tecnologias
-<div>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "50" height= "50"/>   
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width= "50" height= "50" margin-left="10px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width= "50" height= "50" margin-left="10px"/>
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width= "50" height= "50" margin-left="10px"/>   
-        <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width= "50" height= "50" margin-left="10px"/> 
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width= "50" height= "50" margin-left="10px"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line-wordmark.svg" width= "50" height= "50" margin-left="10px"/>
-          
-          
+<h3 align="left">👨‍💻 About Me</h3>
+
+###
+
+<p align="left">
+💻 Fullstack Developer <br>
+📚 Self-taught, constantly learning new technologies and trends to deliver modern and functional solutions
+</p>
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="prisma logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="40" alt="cypress logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" height="40" alt="vitest logo"  />
 </div>
 
-<br>
-<br>
+###
 
-<strong>📗 Atualmente estou estudando back-end com Node.js e construindo APIs com frameworks como express e fastify.</strong>
+<h3 align="left">📊 GitHub Stats</h3>
 
-<strong>💻 Você pode ver meu portfólio com todos meus projetos e CV:</i> [Portfólio](https://vandilson-portfolio.vercel.app/)</strong>
+###
 
-<br>
-
-### Contatos
-
-<div>
-<a href="https://instagram.com/vanprogramadorweb" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/vandilson-brito-b791b3216" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=dark&hide_border=true&bg_color=0,00FF00,006400&title_color=ffffff&icon_color=00FF00" alt="GitHub stats" />
+  <img width="20" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&theme=dark&hide_border=true&bg_color=0,00FF00,006400&title_color=ffffff" alt="Top languages" />
 </div>
- <!--
-**vandilsonbrito/vandilsonbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<strong>💻 You can see my portfolio with projects and CV:</strong> [Portfolio](https://vandilson-portfolio.vercel.app/)
