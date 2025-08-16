@@ -37,7 +37,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="10" />
@@ -49,7 +49,7 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-plain.svg" height="40" alt="cypress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" height="40" alt="cypress logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitest/vitest-plain.svg" height="40" alt="vitest logo"  />
 </div>
@@ -61,9 +61,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1f1c,004d00&title_color=00ff00&icon_color=00ff00" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vandilsonbrito&show_icons=true&theme=gruvbox&hide_border=true&bg_color=1b2b1a&title_color=00ff00&icon_color=00ff00" alt="GitHub stats" />
   <img width="20" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vandilsonbrito&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1f1c,004d00&title_color=00ff00" alt="Top languages" />
 </div>
 
 ###
