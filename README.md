@@ -19,7 +19,7 @@
 
 <p align="left">
 💻 Fullstack Developer <br>
-📚 Self-taught, constantly learning new technologies and trends to deliver modern and functional solutions
+📚 Self-taught, constantly learning new technologies and trends to deliver modern and functional solutions <br>
 Email: vandilson25@outlook.com
 </p>
 
