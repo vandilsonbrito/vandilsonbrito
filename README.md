@@ -9,6 +9,7 @@
   <a href="https://instagram.com/vanprogramadorweb" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="25" alt="instagram logo">
   </a>
+  <p>Email: vandilson25@outlook.com</p>
 </div>
 
 ###
